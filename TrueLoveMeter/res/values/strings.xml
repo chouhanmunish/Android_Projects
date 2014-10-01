@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_id">017000001</string>
+    <string name="app_name">True Love Meter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Enter details</string>
+    <string name="hint_your_name">Enter Your Name</string>
+    <string name="hint_lover_name">Enter Your Lover\'s name</string>
+    <string name="hint_your_dob">Choose Your DOB</string>
+    <string name="hint_lover_dob">Choose Lover\'s DOB</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+    <string name="button_fb_share">Share Result on Facebook</string>
+
+</resources>
